@@ -26,7 +26,7 @@ export default function Left() {
         <span className="text-lightWhite text-sm">of 100</span>
       </div>
       <h4 className="text-white text-2xl font-semibold mb-3">Great</h4>
-      <p className="text-center px-12 text-lightWhite text-sm">
+      <p className="text-center  px-12 text-lightWhite text-sm">
         You scored higher than 65% of the people who have taken these tests.
       </p>
     </div>
